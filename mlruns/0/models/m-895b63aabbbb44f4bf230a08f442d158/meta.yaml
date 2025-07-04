@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/0/models/m-895b63aabbbb44f4bf230a08f442d158/artifacts
+creation_timestamp: 1751383184470
+experiment_id: '0'
+last_updated_timestamp: 1751383191132
+model_id: m-895b63aabbbb44f4bf230a08f442d158
+model_type: null
+name: random_forest_model
+source_run_id: 192405cad1c4430c8eda59f5d61a6086
+status: 2
+status_message: null

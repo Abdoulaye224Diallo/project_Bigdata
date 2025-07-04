@@ -1,0 +1,8 @@
+pandas
+kafka-python
+minio
+snowflake-connector-python
+pyarrow<19.0.0
+psycopg2-binary
+fastapi
+python-multipart

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/546630276834442325/3b86dcb46845423cb2c2970435726423/artifacts
+end_time: 1751457004691
+entry_point_name: ''
+experiment_id: '546630276834442325'
+lifecycle_stage: active
+run_id: 3b86dcb46845423cb2c2970435726423
+run_name: blushing-fowl-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751456999367
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO

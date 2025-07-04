@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/546630276834442325/ce2b037585a64b5ba234d0006a20d669/artifacts
+deleted_time: 1751373718801
+end_time: 1751373013478
+entry_point_name: ''
+experiment_id: '546630276834442325'
+lifecycle_stage: deleted
+run_id: ce2b037585a64b5ba234d0006a20d669
+run_name: receptive-sheep-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751373002267
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO

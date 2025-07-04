@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/546630276834442325/08e4d2b0cf364d47b994868ff2dc2295/artifacts
+end_time: 1751464310790
+entry_point_name: ''
+experiment_id: '546630276834442325'
+lifecycle_stage: active
+run_id: 08e4d2b0cf364d47b994868ff2dc2295
+run_name: useful-newt-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751464298113
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO

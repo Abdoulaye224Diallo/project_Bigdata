@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/0/models/m-895b63aabbbb44f4bf230a08f442d158/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.0
+model_id: m-895b63aabbbb44f4bf230a08f442d158
+model_size_bytes: 247002
+model_uuid: m-895b63aabbbb44f4bf230a08f442d158
+prompts: null
+run_id: 192405cad1c4430c8eda59f5d61a6086
+utc_time_created: '2025-07-01 15:19:44.530739'

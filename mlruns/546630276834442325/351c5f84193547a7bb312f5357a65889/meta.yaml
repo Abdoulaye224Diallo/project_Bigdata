@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/546630276834442325/351c5f84193547a7bb312f5357a65889/artifacts
+end_time: 1751460633373
+entry_point_name: ''
+experiment_id: '546630276834442325'
+lifecycle_stage: active
+run_id: 351c5f84193547a7bb312f5357a65889
+run_name: gaudy-snail-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751460623557
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO

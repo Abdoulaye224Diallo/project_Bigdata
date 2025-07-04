@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/0/models/m-b2b2743aff974b2a950f7e99e28285f5/artifacts
+creation_timestamp: 1751372714457
+experiment_id: '0'
+last_updated_timestamp: 1751372735490
+model_id: m-b2b2743aff974b2a950f7e99e28285f5
+model_type: null
+name: parking_traffic_model
+source_run_id: null
+status: 2
+status_message: null

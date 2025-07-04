@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/546630276834442325/9bad974904514a5b867eab0d1787c971/artifacts
+end_time: 1751373682445
+entry_point_name: ''
+experiment_id: '546630276834442325'
+lifecycle_stage: active
+run_id: 9bad974904514a5b867eab0d1787c971
+run_name: gifted-snake-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751373676207
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO

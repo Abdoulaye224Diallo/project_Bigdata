@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/0/42f5c215fa8a44ba9b6bc71397d799a4/artifacts
+end_time: 1751452672634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42f5c215fa8a44ba9b6bc71397d799a4
+run_name: fearless-cow-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751452664117
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO

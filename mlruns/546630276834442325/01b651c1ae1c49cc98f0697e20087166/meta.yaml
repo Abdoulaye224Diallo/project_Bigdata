@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AbdoulayeDIALLO/Desktop/challenge_dataLake/mlruns/546630276834442325/01b651c1ae1c49cc98f0697e20087166/artifacts
+end_time: 1751462230782
+entry_point_name: ''
+experiment_id: '546630276834442325'
+lifecycle_stage: active
+run_id: 01b651c1ae1c49cc98f0697e20087166
+run_name: resilient-hog-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751462220475
+status: 3
+tags: []
+user_id: AbdoulayeDIALLO
